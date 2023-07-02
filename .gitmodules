@@ -1,0 +1,10 @@
+[submodule "cartographer"]
+	path = cartographer
+	url = https://github.com/cartographer-project/cartographer.git
+[submodule "youbot_description"]
+	path = youbot_description
+	url = https://github.com/mas-group/youbot_description.git
+[submodule "cartographer_ros"]
+	path = cartographer_ros
+	url = https://github.com/WFram/cartographer_ros
+	branch = master
